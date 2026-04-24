@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next.js Template",
-  description: "A minimal Next.js starter template",
+  title: "TradingHub - Real-Time Trading Platform",
+  description: "Trade cryptocurrencies, stocks, and forex in real-time with advanced charts and portfolio tracking",
 };
 
 export default function RootLayout({
